@@ -1,3 +1,33 @@
+`ART3402`
+
+# Interactive Design
+
+- Wednesday, 1:25–4:05 p.m., ADM 535
+- Instructor: Justin Gagne
+- Email: `gagnej@emmanuel.edu`
+- Office Hours: TBA
+- Work: Design lead for [Gymnasium](https://thegymnasium.com) at [Aquent](https://aquent.com) in Boston, MA.
+
+- - -
+
+- [Course Description](#course-description)
+
+- - -
+
+- [Schedule](#schedule)
+- [Tools](#tools)
+- [Books](#books)
+- [Resources](#resources)
+
+- - -
+
+- [Author](#author)
+- [License](#license)
+
+## Course Description
+
+This advanced course introduces students to the concepts and techniques of interactive design through industry standard web development. Through focused projects, students will explore interactive paradigms of user experience, information architecture, and navigation design with an emphasis on organization and usability. Current and future directions of interactive design will be discussed with a focus on advanced HTML, CSS, responsive design, frameworks, and workflows.
+
 ## Schedule
 
 ### Week 1
@@ -18,7 +48,7 @@
 
 #### Lectures
 
-- [Resilience](https://vimeo.com/166140718) by [Jeremy Keith](https://adactio.com) ≈ 46 min `video`
+- [Resilience](https://vimeo.com/166140718) by [Jeremy Kei, wth](https://adactio.com) ≈ 46 min `video`
 - [Do We Need to Write Markup](https://vimeo.com/109912256) by [Nathan Ford](http://artequalswork.com) ≈ 46 min `video`
 
 #### Hello World
@@ -38,7 +68,7 @@
 - Text, Format, and Markup (Text-Level Semantics)
   - Editing Soft Copy
     - [View Source](http://thinkingwithtype.com/extras/#editing-soft-copy)
-    - [Raw Text](lessons/content-markup/text-format-markup/editing-soft-copy.txt)
+    - [Raw Text](lessons/content-markup/text-format-markup/textediting-soft-copy.txt)
     - [Visual Guide](lessons/content-markup/text-format-markup/lupton-editing-soft-copy.png)
 
 #### Resources
@@ -134,8 +164,12 @@ Pick a *free* flavor…
 
 ## Books
 
-- [HTML5 for Web Designers](https://abookapart.com/products/html5-for-web-designers) (Second Edition)
-- [Responsive Web Design](https://abookapart.com/products/responsive-web-design) (Second Edition)
+Nice-to-have, but *not* required.
+
+- [HTML5 for Web Designers](https://abookapart.com/products/html5-for-web-designers) by Jeremy Keith (Second Edition)
+- [Responsive Web Design](https://abookapart.com/products/responsive-web-design) by Ethan Marcotte (Second Edition)
+- [Designing with Web Standards](https://www.amazon.com/Designing-Web-Standards-Jeffrey-Zeldman/dp/0321616952) by Jeffrey Zeldman (Third Edition)
+- [The Art and Science of Web Design](https://www.amazon.com/Art-Science-Web-Design/dp/0789723700) by Jeffrey Veen *(Oldie, but goodie.)*
 
 ## Resources
 
@@ -152,3 +186,15 @@ Pick a *free* flavor…
 
 - [HTML Arrows](http://htmlarrows.com) A delightful reference for HTML Symbols, Entities and ASCII Character Codes
 - [TitleCap](http://titlecapitalization.com) Automatically capitalize your title
+
+- - -
+
+## Author
+
+A course developed by Justin Gagne.
+
+## License
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" src="https://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png"></a>
+
+This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
