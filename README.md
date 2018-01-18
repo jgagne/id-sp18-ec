@@ -68,7 +68,7 @@ This advanced course introduces students to the concepts and techniques of inter
 - Text, Format, and Markup (Text-Level Semantics)
   - Editing Soft Copy
     - [View Source](http://thinkingwithtype.com/extras/#editing-soft-copy)
-    - [Raw Text](lessons/content-markup/text-format-markup/textediting-soft-copy.txt)
+    - [Raw Text](lessons/content-markup/text-format-markup/editing-soft-copy.txt)
     - [Visual Guide](lessons/content-markup/text-format-markup/lupton-editing-soft-copy.png)
 
 #### Resources
