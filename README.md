@@ -8,15 +8,22 @@
 - Office Hours: TBA
 - Work: Design lead for [Gymnasium](https://thegymnasium.com) at [Aquent](https://aquent.com) in Boston, MA.
 
+- - -
+
 - [Course Description](#course-description)
+
+- - -
 
 - [Schedule](#schedule)
 - [Tools](#tools)
 - [Books](#books)
 - [Resources](#resources)
 
+- - -
+
 - [Author](#author)
 - [License](#license)
+
 
 ## Course Description
 
