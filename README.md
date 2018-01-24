@@ -49,7 +49,7 @@ This advanced course introduces students to the concepts and techniques of inter
 
 #### Lectures
 
-- [Resilience](https://vimeo.com/166140718) by [Jeremy Kei, wth](https://adactio.com) ≈ 46 min `video`
+- [Resilience](https://vimeo.com/166140718) by [Jeremy Keith](https://adactio.com) ≈ 46 min `video`
 - [Do We Need to Write Markup](https://vimeo.com/109912256) by [Nathan Ford](http://artequalswork.com) ≈ 46 min `video`
 
 #### Hello World
