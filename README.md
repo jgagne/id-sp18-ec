@@ -80,6 +80,8 @@ This advanced course introduces students to the concepts and techniques of inter
 
 `January 24`
 
+- *No Class; Work from Home Day*
+
 #### Readings
 
 - [MarkSheet: An overview of how the Web works](http://marksheet.io/introduction.html) (1.1–1.3) ≈ 7 min `text`
