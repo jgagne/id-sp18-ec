@@ -86,7 +86,7 @@ This advanced course introduces students to the concepts and techniques of inter
 
 - [MarkSheet: An overview of how the Web works](http://marksheet.io/introduction.html) (1.1–1.3) ≈ 7 min `text`
 - [A Brief History of Markup](https://html5forwebdesigners.com/history/) ≈ 9 min `text`
-- [The Design Of HTML5](https://html5forwebdesigners.com/design/) ≈ 15 min `text`
+- [The Design of HTML5](https://html5forwebdesigners.com/design/) ≈ 15 min `text`
 - [HTML & CSS is Hard: Introduction](https://internetingishard.com/html-and-css/introduction/) ≈ 12 min `text`
 - [HTML & CSS is Hard: Basic Web Pages](https://internetingishard.com/html-and-css/basic-web-pages/) ≈ 16 min `text`
 - [The i, b, em, & strong elements](http://html5doctor.com/i-b-em-strong-element/) ≈ 9 min `text
