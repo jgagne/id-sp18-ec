@@ -96,6 +96,26 @@ This advanced course introduces students to the concepts and techniques of inter
 
 `January 31`
 
+#### Assignment
+
+##### Recipe
+
+ - Select a cooking/baking recipe to share *(and make)*
+ - Markup the content first with [semantic HTML](http://w3c.github.io/html-reference/elements-by-function.html).
+  - Consider what each content chunk and phrase is and about
+- Use proper [typographic characters](http://htmlarrows.com) for numbers, punctuation, symbols, etc.
+- Photograph the final product
+- Develop the look and feel of your content
+  - Create a [style tile](https://alistapart.com/article/style-tiles-and-how-they-work)
+    - Develop a color palette based on the colors your recipe
+    - Serif or sans-serif text, or [both](https://www.cssfontstack.com) (≥90% Win/Mac)?
+
+###### Inspect
+
+- Quick Start: [Starbucks Coffee Bean Peanut Brittle](https://news.starbucks.com/news/starbucks-coffee-bean-peanut-brittle-recipe)
+- Furthermore: [A Coffee Ritual, Baked Not Brewed](https://1912pike.com/a-coffee-ritual-baked-not-brewed/)
+
+
 ### Week 4
 
 `February 7`
