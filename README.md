@@ -6,6 +6,7 @@
 - Instructor: Justin Gagne
 - Email: `gagnej@emmanuel.edu`
 - Office Hours: TBA
+- [Slack Class Workspace](https://id-sp18-ec.slack.com) — Where Work Happens™
 - Work: Design lead for [Gymnasium](https://thegymnasium.com) at [Aquent](https://aquent.com) in Boston, MA.
 
 - - -
