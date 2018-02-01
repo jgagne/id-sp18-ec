@@ -32,6 +32,8 @@ This advanced course introduces students to the concepts and techniques of inter
 
 ## Schedule
 
+- - -
+
 ### Week 1
 
 `January 17`
@@ -95,6 +97,8 @@ Text, format, and markup (text-level semantics).
 - [Semantics](https://html5forwebdesigners.com/semantics/) ≈ 19 min `text`
 - [The i, b, em, & strong elements](http://html5doctor.com/i-b-em-strong-element/) ≈ 9 min `text`
 
+- - -
+
 ### Week 3
 
 `January 31`
@@ -135,9 +139,13 @@ Select a cooking/baking recipe to share *(and make)*.
 - Quick Start: [Starbucks Coffee Bean Peanut Brittle](https://news.starbucks.com/news/starbucks-coffee-bean-peanut-brittle-recipe)
 - Furthermore: [A Coffee Ritual, Baked Not Brewed](https://1912pike.com/a-coffee-ritual-baked-not-brewed/)
 
+- - -
+
 ### Week 4
 
 `February 7`
+
+- - -
 
 ### Week 5
 
@@ -145,13 +153,19 @@ Select a cooking/baking recipe to share *(and make)*.
 
 - *Valentine’s Day*
 
+- - -
+
 ### Week 6
 
 `February 21`
 
+- - -
+
 ### Week 7
 
 `February 28`
+
+- - -
 
 ### Week 8
 
@@ -159,29 +173,43 @@ Select a cooking/baking recipe to share *(and make)*.
 
 - **No Class**
 
+- - -
+
 ### Week 9
 
 `March 14`
+
+- - -
 
 ### Week 10
 
 `March 21`
 
+- - -
+
 ### Week 11
 
 `March 28`
+
+- - -
 
 ### Week 12
 
 `April 4`
 
+- - -
+
 ### Week 13
 
 `April 11`
 
+- - -
+
 ### Week 14
 
 `April 18`
+
+- - -
 
 ### Week 15
 
