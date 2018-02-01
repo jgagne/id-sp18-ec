@@ -109,7 +109,9 @@ Text, format, and markup (text-level semantics).
 Text, format, and markup (text-level semantics).
 
 - [Work in progress files](lessons/01-content-markup/warm-up/editing-soft-copy/)
- - See comments in HTML and CSS files for resources and notes
+  - [HTML Preview](https://htmlpreview.github.io/?https://github.com/jgagne/id-sp18-ec/blob/master/lessons/01-content-markup/warm-up/editing-soft-copy/index.html)
+- See comments in HTML and CSS files for resources and notes
+
 
 #### Readings
 
