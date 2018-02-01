@@ -73,13 +73,12 @@ This advanced course introduces students to the concepts and techniques of inter
 
 Text, format, and markup (text-level semantics).
 
-- [View Source](http://thinkingwithtype.com/extras/#editing-soft-copy)
-- [Raw Text](lessons/01-content-markup/warm-up/editing-soft-copy/editing-soft-copy.txt)
-- [Visual Guide](lessons/01-content-markup/warm-up/editing-soft-copy/lupton-editing-soft-copy.png)
-
-#### Resources
-
+- [View source](http://thinkingwithtype.com/extras/#editing-soft-copy)
+- [Raw text](lessons/01-content-markup/warm-up/editing-soft-copy/editing-soft-copy.txt)
+- [Visual guide](lessons/01-content-markup/warm-up/editing-soft-copy/lupton-editing-soft-copy.png)
 - See [HTML Semantics](http://marksheet.io/html-semantics.html); see also [HTML Resources](#html)
+
+- - -
 
 ### Week 2
 
