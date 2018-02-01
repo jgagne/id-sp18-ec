@@ -1,0 +1,41 @@
+/* ---------------------------
+
+Resources
+
+- CSS Vocabulary
+http://nimbupani.com/css-vocabulary.html
+
+- CSS Selectors
+https://www.quirksmode.org/css/selectors/
+
+- CSS Named Colors
+http://htmlcolorcodes.com/color-names/
+
+- CSS Validation Service
+https://jigsaw.w3.org/css-validator/
+
+- Naming CSS Stuff Is Really Hard
+https://seesparkbox.com/foundry/naming_css_stuff_is_really_hard
+
+- Key Copyediting Terms
+https://www.thoughtco.com/key-copyediting-terms-1692372
+
+- - -
+
+Change Log
+
+- shorten .redlining to .redline
+
+--------------------------- */
+
+/* --- selector or (element) type selector --- */
+
+mark {
+  background-color: cyan; /* default is yellow */
+  }
+
+/* --- class selector --- */
+
+.redline {
+  color: red;
+  }

@@ -64,13 +64,15 @@ This advanced course introduces students to the concepts and techniques of inter
 - [Resilient web design](https://resilientwebdesign.com) by [Jeremy Keith](https://adactio.com) *Introduction; (Chapter 1) Foundations*  ≈ 12 min `text`
 - [The Benefits of Semantic HTML](https://talum.github.io/blog/2015/12/21/the-benefits-of-semantic-html/) by [Tracy Lum](http://talum.github.io) ≈ 3 min `text`
 
-#### Assignment
+#### Warm-Up
 
-- Text, Format, and Markup (Text-Level Semantics)
-  - Editing Soft Copy
-    - [View Source](http://thinkingwithtype.com/extras/#editing-soft-copy)
-    - [Raw Text](lessons/content-markup/text-format-markup/editing-soft-copy.txt)
-    - [Visual Guide](lessons/content-markup/text-format-markup/lupton-editing-soft-copy.png)
+##### Editing Soft Copy
+
+Text, format, and markup (text-level semantics).
+
+- [View Source](http://thinkingwithtype.com/extras/#editing-soft-copy)
+- [Raw Text](lessons/01-content-markup/warm-up/editing-soft-copy/editing-soft-copy.txt)
+- [Visual Guide](lessons/01-content-markup/warm-up/editing-soft-copy/lupton-editing-soft-copy.png)
 
 #### Resources
 
@@ -96,25 +98,41 @@ This advanced course introduces students to the concepts and techniques of inter
 
 `January 31`
 
-#### Assignment
+#### Warm-Up
+
+##### Editing Soft Copy
+
+Text, format, and markup (text-level semantics).
+
+- [Work in progress files](lessons/01-content-markup/warm-up/editing-soft-copy/)
+ - See comments in HTML and CSS files for resources and notes
+
+#### Readings
+
+- [MarkSheet: HTML Basic](https://marksheet.io/html-basics.html) (2.1–2.7) ≈ 15 min `text`
+- [MarkSheet: HTML Text](https://marksheet.io/html-text.html) (3.2) ≈ 3 min `text`
+- [MarkSheet: Inline semantics](https://marksheet.io/html-inline-semantics.html) (3.3) ≈ 1 min `text`
+- [Graphic Design as a Liberal Art](http://jarrettfuller.com/projects/liberalart) ≈ 7 min `text`
+
+#### Project
 
 ##### Recipe
 
- - Select a cooking/baking recipe to share *(and make)*
- - Markup the content first with [semantic HTML](http://w3c.github.io/html-reference/elements-by-function.html).
+Select a cooking/baking recipe to share *(and make)*.
+
+- Markup the content first with [semantic HTML](http://w3c.github.io/html-reference/elements-by-function.html).
   - Consider what each content chunk and phrase is and about
-- Use proper [typographic characters](http://htmlarrows.com) for numbers, punctuation, symbols, etc.
+- Use proper [typographical characters](http://htmlarrows.com) for numbers, punctuation, symbols, etc.
 - Photograph the final product
 - Develop the look and feel of your content
   - Create a [style tile](https://alistapart.com/article/style-tiles-and-how-they-work)
     - Develop a color palette based on the colors your recipe
-    - Serif or sans-serif text, or [both](https://www.cssfontstack.com) (≥90% Win/Mac)?
+    - Serif or sans-serif text, or [both](https://www.cssfontstack.com)? (≥90% Win/Mac)
 
 ###### Inspect
 
 - Quick Start: [Starbucks Coffee Bean Peanut Brittle](https://news.starbucks.com/news/starbucks-coffee-bean-peanut-brittle-recipe)
 - Furthermore: [A Coffee Ritual, Baked Not Brewed](https://1912pike.com/a-coffee-ritual-baked-not-brewed/)
-
 
 ### Week 4
 
