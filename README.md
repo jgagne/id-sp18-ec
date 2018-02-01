@@ -116,6 +116,7 @@ Text, format, and markup (text-level semantics).
 - [MarkSheet: HTML Basic](https://marksheet.io/html-basics.html) (2.1–2.7) ≈ 15 min `text`
 - [MarkSheet: HTML Text](https://marksheet.io/html-text.html) (3.2) ≈ 3 min `text`
 - [MarkSheet: Inline semantics](https://marksheet.io/html-inline-semantics.html) (3.3) ≈ 1 min `text`
+- [HTML lists](https://webplatform.github.io/docs/guides/html_lists/) ≈ 8 min `text`
 - [Graphic Design as a Liberal Art](http://jarrettfuller.com/projects/liberalart) ≈ 7 min `text`
 
 #### Project
