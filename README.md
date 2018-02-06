@@ -233,6 +233,12 @@ Pick a *free* flavor…
 - [JS Bin](http://jsbin.com) (web-based)
 - [HTML Builder Prototype](http://dev.artequalswork.com/builder/) (web-based)
 
+### Developer Tools
+
+HTML and CSS validators, and more…
+
+- [W3C Developer Tools](https://www.w3.org/developers/tools/)
+
 ### Digital Design
 
 - [Illustrator](https://www.adobe.com/products/illustrator.html)
