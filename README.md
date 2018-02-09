@@ -166,25 +166,26 @@ Create a [style tile](https://alistapart.com/article/style-tiles-and-how-they-wo
 
 #### Comping
 
-- [Why we skip Photoshop](https://signalvnoise.com/posts/1061-why-we-skip-photoshop) `text`
-- [Paper Prototyping](https://alistapart.com/article/paperprototyping) `text`
-- [Printable Grids for Design Wireframing](http://sneakpeekit.com)
+- [Why we skip Photoshop](https://signalvnoise.com/posts/1061-why-we-skip-photoshop)
+- [Paper Prototyping](https://alistapart.com/article/paperprototyping)
+- [Printable Grids for Design Wireframing](http://sneakpeekit.com) `templates`
 
 #### Readings
 
-- [Separation: The Web Designer’s Dilemma](https://alistapart.com/article/separationdilemma) `text`
-- [Responsive questions](https://adactio.com/journal/5351)`text`
-- [A brief history of CSS until 2016](https://www.w3.org/Style/CSS20/history.html) `text`
-- [CSS Selectors](https://internetingishard.com/html-and-css/css-selectors/) `text`
-- [Why you should say HTML classes, CSS class selectors, or CSS pseudo-classes, but not CSS classes](http://tantek.com/2012/353/b1/why-html-classes-css-class-selectors) `text`
-- [CSS Box Model](https://internetingishard.com/html-and-css/css-box-model/) `text`
-- [Web Typography](https://internetingishard.com/html-and-css/web-typography/) `text`
+- [Separation: The Web Designer’s Dilemma](https://alistapart.com/article/separationdilemma)
+- [Responsive questions](https://adactio.com/journal/5351)
+- [A brief history of CSS until 2016](https://www.w3.org/Style/CSS20/history.html)
+- [CSS Selectors](https://internetingishard.com/html-and-css/css-selectors/)
+- [CSS Box Model](https://internetingishard.com/html-and-css/css-box-model/)
+- [Web Typography](https://internetingishard.com/html-and-css/web-typography/)
 
-#### Reference
+#### References
 
 - [Obsolete and deprecated elements](https://developer.mozilla.org/en-US/docs/Web/HTML/Element#Obsolete_and_deprecated_elements)
+- [Organizing Data with Tables](https://learn.shayhowe.com/html-css/organizing-data-with-tables/) *Please*, use an `ol`, `ul`, or `dl` instead of a `table`.
 - [Alt text is part of your site’s content](http://centercentre.com/blog/2016-06-30-alt-text-is-part-of-your-sites-content)
 - [Alt-texts: The Ultimate Guide](https://axesslab.com/alt-texts/)
+- [Why you should say HTML classes, CSS class selectors, or CSS pseudo-classes, but not CSS classes](http://tantek.com/2012/353/b1/why-html-classes-css-class-selectors)
 - [CSS Reference](https://cssreference.io)
 - [CSS Cheat Sheet](https://adam-marsden.co.uk/css-cheat-sheet)
 
