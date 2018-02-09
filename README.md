@@ -153,7 +153,7 @@ Select a cooking/baking recipe to share *(and make)*.
 
 Create a [style tile](https://alistapart.com/article/style-tiles-and-how-they-work) (for the general look and feel) and, then layout two comps, one for small screens (mobile first) and the other for wider screens (tablet–desktop).
 
-- Make comps by hand on paper (as a [paper prototype](https://alistapart.com/article/paperprototyping)) or use a digital design tools like Illustrator, InDesign, Sketch, etc. (*Please*, [skip Photoshop](https://signalvnoise.com/posts/1061-why-we-skip-photoshop))
+- Make comps by hand on paper (as a [paper prototype](https://alistapart.com/article/paperprototyping)) or use a digital design tools like Illustrator, InDesign, Sketch, etc. (*Please*, [skip Photoshop](https://signalvnoise.com/posts/1061-why-we-skip-photoshop).)
 - Be ready to show style tile(s) and comps for the next class as a print-out or an on-screen PDF
 
 ###### Separation of Content and Style
@@ -182,7 +182,7 @@ Create a [style tile](https://alistapart.com/article/style-tiles-and-how-they-wo
 #### References
 
 - [Obsolete and deprecated elements](https://developer.mozilla.org/en-US/docs/Web/HTML/Element#Obsolete_and_deprecated_elements)
-- [Organizing Data with Tables](https://learn.shayhowe.com/html-css/organizing-data-with-tables/) *Please*, use an `ol`, `ul`, or `dl` instead of a `table`.
+- [Organizing Data with Tables](https://learn.shayhowe.com/html-css/organizing-data-with-tables/) (*Please*, use an `ol`, `ul`, or `dl` instead of a `table`.)
 - [Alt text is part of your site’s content](http://centercentre.com/blog/2016-06-30-alt-text-is-part-of-your-sites-content)
 - [Alt-texts: The Ultimate Guide](https://axesslab.com/alt-texts/)
 - [Why you should say HTML classes, CSS class selectors, or CSS pseudo-classes, but not CSS classes](http://tantek.com/2012/353/b1/why-html-classes-css-class-selectors)
