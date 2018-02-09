@@ -147,6 +147,47 @@ Select a cooking/baking recipe to share *(and make)*.
 
 `February 7`
 
+#### Homework
+
+##### Recipe
+
+Create a [style tile](https://alistapart.com/article/style-tiles-and-how-they-work) (for the general look and feel) and, then layout two comps, one for small screens (mobile first) and the other for wider screens (tablet–desktop).
+
+- Make comps by hand on paper (as a [paper prototype](https://alistapart.com/article/paperprototyping)) or use a digital design tools like Illustrator, InDesign, Sketch, etc. (*Please*, [skip Photoshop](https://signalvnoise.com/posts/1061-why-we-skip-photoshop))
+- Be ready to show style tile(s) and comps for the next class as a print-out or an on-screen PDF
+
+###### Separation of Content and Style
+
+- Markup content with [semantic HTML](http://w3c.github.io/html-reference/elements-by-function.html)
+- Add an image and write a descriptive [alternative text](https://axesslab.com/alt-texts/)
+  - For example: `<img alt="An orange cat is sleeping." src="img/orange-tabby.jpg">`
+- Use an [external stylesheet](https://learn.shayhowe.com/html-css/building-your-first-web-page/#referencing-css)
+  - For example: `<link rel="stylesheet" href="css/main.css">`
+
+#### Comping
+
+- [Why we skip Photoshop](https://signalvnoise.com/posts/1061-why-we-skip-photoshop) `text`
+- [Paper Prototyping](https://alistapart.com/article/paperprototyping) `text`
+- [Printable Grids for Design Wireframing](http://sneakpeekit.com)
+
+#### Readings
+
+- [Separation: The Web Designer’s Dilemma](https://alistapart.com/article/separationdilemma) `text`
+- [Responsive questions](https://adactio.com/journal/5351)`text`
+- [A brief history of CSS until 2016](https://www.w3.org/Style/CSS20/history.html) `text`
+- [CSS Selectors](https://internetingishard.com/html-and-css/css-selectors/) `text`
+- [Why you should say HTML classes, CSS class selectors, or CSS pseudo-classes, but not CSS classes](http://tantek.com/2012/353/b1/why-html-classes-css-class-selectors) `text`
+- [CSS Box Model](https://internetingishard.com/html-and-css/css-box-model/) `text`
+- [Web Typography](https://internetingishard.com/html-and-css/web-typography/) `text`
+
+#### Reference
+
+- [Obsolete and deprecated elements](https://developer.mozilla.org/en-US/docs/Web/HTML/Element#Obsolete_and_deprecated_elements)
+- [Alt text is part of your site’s content](http://centercentre.com/blog/2016-06-30-alt-text-is-part-of-your-sites-content)
+- [Alt-texts: The Ultimate Guide](https://axesslab.com/alt-texts/)
+- [CSS Reference](https://cssreference.io)
+- [CSS Cheat Sheet](https://adam-marsden.co.uk/css-cheat-sheet)
+
 - - -
 
 ### Week 5
