@@ -63,9 +63,9 @@ This advanced course introduces students to the concepts and techniques of inter
 
 #### Readings
 
-- [Designers vs Coding](https://web.archive.org/web/20111201205345/http://blog.frankchimero.com/post/9594863189) by [Frank Chimero](https://frankchimero.com) ≈ 3 min `text`
-- [Resilient web design](https://resilientwebdesign.com) by [Jeremy Keith](https://adactio.com) *Introduction; (Chapter 1) Foundations*  ≈ 12 min `text`
-- [The Benefits of Semantic HTML](https://talum.github.io/blog/2015/12/21/the-benefits-of-semantic-html/) by [Tracy Lum](http://talum.github.io) ≈ 3 min `text`
+- [Designers vs Coding](https://web.archive.org/web/20111201205345/http://blog.frankchimero.com/post/9594863189) by [Frank Chimero](https://frankchimero.com)
+- [Resilient web design](https://resilientwebdesign.com) by [Jeremy Keith](https://adactio.com) *Introduction; (Chapter 1) Foundations*
+- [The Benefits of Semantic HTML](https://talum.github.io/blog/2015/12/21/the-benefits-of-semantic-html/) by [Tracy Lum](http://talum.github.io)
 
 #### Warm-Up
 
@@ -88,13 +88,13 @@ Text, format, and markup (text-level semantics).
 
 #### Readings
 
-- [MarkSheet: An overview of how the Web works](http://marksheet.io/introduction.html) (1.1–1.3) ≈ 7 min `text`
-- [A Brief History of Markup](https://html5forwebdesigners.com/history/) ≈ 9 min `text`
-- [The Design of HTML5](https://html5forwebdesigners.com/design/) ≈ 15 min `text`
-- [HTML & CSS is Hard: Introduction](https://internetingishard.com/html-and-css/introduction/) ≈ 12 min `text`
-- [HTML & CSS is Hard: Basic Web Pages](https://internetingishard.com/html-and-css/basic-web-pages/) ≈ 16 min `text`
-- [Semantics](https://html5forwebdesigners.com/semantics/) ≈ 19 min `text`
-- [The i, b, em, & strong elements](http://html5doctor.com/i-b-em-strong-element/) ≈ 9 min `text`
+- [MarkSheet: An overview of how the Web works](http://marksheet.io/introduction.html) (1.1–1.3)
+- [A Brief History of Markup](https://html5forwebdesigners.com/history/)
+- [The Design of HTML5](https://html5forwebdesigners.com/design/)
+- [HTML & CSS is Hard: Introduction](https://internetingishard.com/html-and-css/introduction/)
+- [HTML & CSS is Hard: Basic Web Pages](https://internetingishard.com/html-and-css/basic-web-pages/)
+- [Semantics](https://html5forwebdesigners.com/semantics/)
+- [The i, b, em, & strong elements](http://html5doctor.com/i-b-em-strong-element/)
 
 - - -
 
@@ -115,11 +115,11 @@ Text, format, and markup (text-level semantics).
 
 #### Readings
 
-- [MarkSheet: HTML Basic](https://marksheet.io/html-basics.html) (2.1–2.7) ≈ 15 min `text`
-- [MarkSheet: HTML Text](https://marksheet.io/html-text.html) (3.2) ≈ 3 min `text`
-- [MarkSheet: Inline semantics](https://marksheet.io/html-inline-semantics.html) (3.3) ≈ 1 min `text`
-- [HTML lists](https://webplatform.github.io/docs/guides/html_lists/) ≈ 8 min `text`
-- [Graphic Design as a Liberal Art](http://jarrettfuller.com/projects/liberalart) ≈ 7 min `text`
+- [MarkSheet: HTML Basic](https://marksheet.io/html-basics.html) (2.1–2.7)
+- [MarkSheet: HTML Text](https://marksheet.io/html-text.html) (3.2)
+- [MarkSheet: Inline semantics](https://marksheet.io/html-inline-semantics.html) (3.3)
+- [HTML lists](https://webplatform.github.io/docs/guides/html_lists/)
+- [Graphic Design as a Liberal Art](http://jarrettfuller.com/projects/liberalart)
 
 #### Project
 
