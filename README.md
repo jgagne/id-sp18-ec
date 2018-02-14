@@ -197,6 +197,45 @@ Create a [style tile](https://alistapart.com/article/style-tiles-and-how-they-wo
 
 - *Valentine’s Day*
 
+> Content precedes design. Design in the absence of content is not design, it’s decoration.
+>
+> —[Jeffrey Zeldman](https://studio.zeldman.com), designer, writer, and publisher
+
+> The Web is 90% text, so let’s style it first.
+>
+> —[Jeremy Thomas](http://marksheet.io/css-text.html), CSS guru and author of [MarkSheet](http://marksheet.io)
+
+> Choosing a typeface is not typography.
+>
+> [iA](https://ia.net/topics/the-web-is-all-about-typography-period/), digital design and product agency
+
+#### Lectures
+
+Type, Color, and Layout
+
+- [The Art of Web Design](https://www.youtube.com/watch?v=3iVVM_DgWY4) Off Book series by PBS `video`
+- [Typography](https://www.youtube.com/watch?v=eKKDL6lekmA) Off Book series by PBS `video`
+- [Jan Tschichold](https://www.youtube.com/watch?v=mm-K8MGDpqU) by Josh Eiten `video`
+
+#### Readings
+
+- [Everything Easy is Hard Again](https://frankchimero.com/writing/everything-easy-is-hard-again/)
+- [Responsive Web Design](https://alistapart.com/article/responsive-web-design)
+- [How Floating Works](https://bitsofco.de/how-floating-works/)
+- [What’s the Deal with Collapsible Margins?](https://bitsofco.de/collapsible-margins/)
+
+#### References
+
+- [CSS Font Stack](https://www.cssfontstack.com) Web safe font families
+- [Font Family Reunion](http://fontfamily.io) Compatibility tables for default local fonts
+- [Webfont Test](http://webfont-test.com) Test and analyze your favorite web fonts
+- [Unitless line-heights](http://meyerweb.com/eric/thoughts/2006/02/08/unitless-line-heights/)
+- [Butterick’s Practical Typography](https://practicaltypography.com)
+- [Web Safe Colors](http://websafecolors.info)
+- [Accessible Colors](http://accessible-colors.com) Test accessible web color combinations
+- [IBM Type](https://ibm.github.io/type/)
+- [IBM Typography Guidelines](http://www.carbondesignsystem.com/style/typography/overview)
+
 - - -
 
 ### Week 6
