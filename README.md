@@ -209,6 +209,12 @@ Create a [style tile](https://alistapart.com/article/style-tiles-and-how-they-wo
 >
 > [iA](https://ia.net/topics/the-web-is-all-about-typography-period/), digital design and product agency
 
+#### Homework
+
+##### Recipe
+
+Focus on content first and mobile first layout using `padding`, `border`, and `margin`, accessible text and background colors, use of web safe fonts, and basic typographical adjustments. *Don’t worry about layout for wider width screens — mobile first and friendly.*
+
 #### Lectures
 
 Type, Color, and Layout
