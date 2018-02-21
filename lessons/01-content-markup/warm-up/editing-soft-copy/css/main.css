@@ -28,14 +28,85 @@ Change Log
 
 --------------------------- */
 
+body {
+  width: 90%;
+  max-width: 48em;
+  margin: 5% auto;
+  }
+
+.horizontal-rule {
+  padding-top: .125em;
+  border-top: .125em dotted #000;
+  border-bottom: .125em double #000;
+  margin-top: 5%;
+  }
+
+/* header {
+  padding-top: .125em;
+  border-top: .125em dotted #000;
+  margin-top: 5%;
+  }
+
+header h1 {
+  padding-top: .5em;
+  border-top: .125em double #000;
+  margin-top: 0;
+  } */
+
+main {
+  padding: 10%;
+  border: 2em solid #999;
+}
+
+p {
+  font-family: Georgia, serif;
+  font-size: 1.1em;
+  line-height: 1.5;
+  letter-spacing: .03em;
+  word-spacing: -.03em;
+  color: #333;
+}
+
+.redline-callout {
+  /* border-width: 0 0 0 .125em;
+  border-style: solid;
+  border-color: #f00; */
+  /* padding: 0 0 0 1em; */
+  padding-left: 1em;
+  border-left: .125em solid #f00;
+  margin-left: -1.125em;
+}
+
 /* --- selector or (element) type selector --- */
 
 mark {
-  background-color: cyan; /* default is yellow */
+  background-color: #ffc; /* default is yellow */
   }
+
+/* hexadecimal color: Black to White, with grayscale inbetween
+0123456789abcdef
+*/
+
+ins {
+    color: #f00;
+    }
 
 /* --- class selector --- */
 
+.underline {
+    text-decoration: underline;
+    }
+
+.italic {
+    font-style: italic;
+    }
+
+.small-caps {
+  font-variant: small-caps;
+  }
+
+/*
 .redline {
   color: red;
   }
+  */
