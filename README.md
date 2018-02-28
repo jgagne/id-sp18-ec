@@ -248,6 +248,11 @@ Type, Color, and Layout
 
 `February 21`
 
+#### Readings
+
+- [The (Mostly) Complete History of Layout on the Web Part 1: Liquid Cool](https://thehistoryoftheweb.com/mostly-complete-history-layout-web-part-1-liquid-cool/)
+- [The (Mostly) Complete History of Layout on the Web Part 1: Responsive Design](https://thehistoryoftheweb.com/mostly-complete-history-flexible-web-layout-part-2-responsive-design/)
+
 - - -
 
 ### Week 7
