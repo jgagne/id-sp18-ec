@@ -365,7 +365,7 @@ Nice-to-have, but *not* required.
 ### Misc
 
 - [HTML Arrows](http://htmlarrows.com) A delightful reference for HTML Symbols, Entities and ASCII Character Codes
-- [Headline Capitalization](https://headlinecapitalization.com) Automatically capitalize your title
+- [TitleCap](http://titlecapitalization.com) Automatically Capitalize Your Title
 
 - - -
 
