@@ -59,7 +59,7 @@ main {
 }
 
 p {
-  font-family: Georgia, serif;
+  font-family: Georgia, "Times New Roman", serif;
   font-size: 1.1em;
   line-height: 1.5;
   letter-spacing: .03em;
