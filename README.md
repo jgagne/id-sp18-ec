@@ -259,6 +259,11 @@ Type, Color, and Layout
 
 `February 28`
 
+
+#### Demo
+
+- [Web Fonts Demo](https://jgagne.github.io/web-fonts-preload/) Using `@font-face` and `preload` for loading performant web fonts
+
 - - -
 
 ### Week 8
