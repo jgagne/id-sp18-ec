@@ -262,7 +262,7 @@ Type, Color, and Layout
 
 #### Demo
 
-- [Web Fonts Demo](https://jgagne.github.io/web-fonts-preload/) Using `@font-face` and `preload` for loading performant web fonts
+- [Web Fonts Demo](https://github.com/jgagne/web-fonts-preload/) Using `@font-face` and `preload` for loading performant web fonts
 
 #### Project
 
