@@ -290,6 +290,18 @@ Select and redesign a previously assigned reading from the course syllabus as a 
 
 `March 21`
 
+Using HTML and CSS frameworks — making getting started with web design and development easier and faster.
+
+#### Demo
+
+- [Grid Layout in Bootstrap 3](https://thegymnasium.com/courses/GYM/003/0/about) Outdated, but the basics to get started are not.
+
+#### References
+
+- [Normalize.css](https://necolas.github.io/normalize.css/) A modern, HTML5-ready alternative to CSS resets
+- [HTML5 Boilerplate](https://html5boilerplate.com) The web’s most popular front-end template
+- [Bootstrap](https://getbootstrap.com) Build responsive, mobile-first projects on the web with the world’s most popular front-end component library
+
 - - -
 
 ### Week 11
