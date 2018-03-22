@@ -259,7 +259,6 @@ Type, Color, and Layout
 
 `February 28`
 
-
 #### Demo
 
 - [Web Fonts Demo](https://github.com/jgagne/web-fonts-preload/) Using `@font-face` and `preload` for loading performant web fonts
@@ -268,7 +267,7 @@ Type, Color, and Layout
 
 ##### Reading Redesign
 
-Select and redesign a previously assigned reading from the course syllabus as a single-page website focusing on readable typography, accessible colors, and flexible images with a responsive layout for various screen sizes — small (mobile first) to wide(r) (tablet, laptop, and desktop).
+Select and redesign a previously assigned reading from the [course syllabus](#schedule) as a single-page website focusing on readable typography, accessible colors, and flexible images with a responsive layout for various screen sizes — small (mobile first) to wide(r) (tablet, laptop, and desktop).
 
 - - -
 
