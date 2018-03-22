@@ -215,7 +215,7 @@ Create a [style tile](https://alistapart.com/article/style-tiles-and-how-they-wo
 
 Focus on content first and mobile first layout using `padding`, `border`, and `margin`, accessible text and background colors, use of web safe fonts, and basic typographical adjustments. *Don’t worry about layout for wider width screens — mobile first and friendly.*
 
-#### Lectures
+#### Lecture
 
 Type, Color, and Layout
 
