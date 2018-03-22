@@ -289,17 +289,35 @@ Select and redesign a previously assigned reading from the [course syllabus](#sc
 
 `March 21`
 
-Using HTML and CSS frameworks — making getting started with web design and development easier and faster.
+#### Lecture
 
-#### Demo
+HTML and CSS frameworks — web design and development made faster and easier.
 
-- [Grid Layout in Bootstrap 3](https://thegymnasium.com/courses/GYM/003/0/about) Outdated, but the basics to get started are not.
+- [Bootstrap 4](http://blog.getbootstrap.com/2018/01/18/bootstrap-4/)
+- [Get Started with Bootstrap](https://getbootstrap.com/docs/4.0/getting-started/introduction/) Build responsive, mobile-first projects on the web with the world’s most popular front-end component library
+- [Grid Layout in Bootstrap 3](https://thegymnasium.com/courses/GYM/003/0/about) Outdated, but the basics to get started are not `video`
+- [Learn Bootstrap 4 in 30 minutes by building a landing page website](https://medium.freecodecamp.org/learn-bootstrap-4-in-30-minute-by-building-a-landing-page-website-guide-for-beginners-f64e03833f33)
+
+#### Homework
+
+##### Reading Redesign
+
+Select and redesign a previously assigned reading from the [course syllabus](#schedule) as a single-page website focusing on readable typography, accessible colors, and flexible images with a responsive layout for various screen sizes — small (mobile first) to wide(r) (tablet, laptop, and desktop).
+
+- Begin with sketches of the article redesign — mobile first, then for a wider screen
+- Use Bootstrap’s stylesheet, `bootstrap.css`, as the foundation for layout
+- Use a separate stylesheet, `main.css`, for custom typography and colors
+
+#### Readings
+
+- [Building Twitter Bootstrap](https://alistapart.com/article/building-twitter-bootstrap)
+- [Web Typography & Layout: Past, Present, and Future](https://alistapart.com/event/web-typography-layout-past-present-future)
+- [A DIY Web Accessibility Blueprint](https://alistapart.com/article/diy-web-accessibility-blueprint)
 
 #### References
 
 - [Normalize.css](https://necolas.github.io/normalize.css/) A modern, HTML5-ready alternative to CSS resets
 - [HTML5 Boilerplate](https://html5boilerplate.com) The web’s most popular front-end template
-- [Bootstrap](https://getbootstrap.com) Build responsive, mobile-first projects on the web with the world’s most popular front-end component library
 
 - - -
 
