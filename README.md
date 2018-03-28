@@ -325,6 +325,10 @@ Select and redesign a previously assigned reading from the [course syllabus](#sc
 
 `March 28`
 
+#### Demo
+
+- [Responsive Images Demo](https://github.com/jgagne/img-srcset-sizes) Using `src`, `srcset` with `w` descriptors, and `sizes`
+
 - - -
 
 ### Week 12
