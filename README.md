@@ -329,6 +329,10 @@ Select and redesign a previously assigned reading from the [course syllabus](#sc
 
 - [Responsive Images Demo](https://github.com/jgagne/img-srcset-sizes) Using `src`, `srcset` with `w` descriptors, and `sizes`
 
+#### Tutorial
+
+- [Learn Bootstrap 4 for free](scrimba.com/g/gbootstrap4)
+
 - - -
 
 ### Week 12
