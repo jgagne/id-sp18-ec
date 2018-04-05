@@ -1,0 +1,15 @@
+/* --- custom styles --- */
+
+/*
+a. Avoid Bootstrap's `border` class; no `border-width` option available and requires `!important` override if using custom CSS
+  - for example: `border-top: .125em solid #000 !important;`
+b. Avoid use of `!important` declaration #bestpractice
+  - https://www.smashingmagazine.com/2010/11/the-important-css-declaration-how-and-when-to-use-it/#when-should-important-be-used
+*/
+
+/* I've got this! */
+
+#section-2 {
+  border-top: .125em solid #000;
+  border-bottom: .125em solid #000;
+  }

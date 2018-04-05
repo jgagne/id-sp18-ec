@@ -339,6 +339,12 @@ Select and redesign a previously assigned reading from the [course syllabus](#sc
 
 `April 4`
 
+#### Demo
+
+- Bootstrap Comp Demo (Comping basic layout using Bootstrap as a foundational framework)
+  - [View Source](https://github.com/jgagne/id-sp18-ec/tree/master/lessons/02-framework/warm-up/bootstrap-comp)
+  - [Download ZIP](https://github.com/jgagne/id-sp18-ec/tree/master/lessons/02-framework/warm-up/bootstrap-comp.zip)
+
 - - -
 
 ### Week 13
