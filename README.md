@@ -351,6 +351,30 @@ Select and redesign a previously assigned reading from the [course syllabus](#sc
 
 `April 11`
 
+> Simplicity is about subtracting the obvious and adding the meaningful.
+>
+> —[John Maeda](https://www.wired.com/2017/03/john-maeda-want-survive-design-better-learn-code/), designer and technologist
+
+#### Project
+
+##### Single Serving
+
+Design a modern responsive single serving website — a single-page with a single-theme based on self generated content; focusing on type, color, image, and layout built using Bootstrap as a foundation.
+
+#### References
+
+- [Single Serving Sites](http://kottke.org/08/02/single-serving-sites)
+- [Purple, Obama, and Single Serving Websites](http://thehistoryoftheweb.com/purple-obama-single-serving-websites/)
+- [How to Order Eggs](http://hansonwu.com/howtoordereggs)
+- [Books on Graphic Design (and Typography)](https://booksongraphicdesign.com)
+
+#### Homework
+
+#### Recipe To-Dos
+
+- [HTML & CSS Recipe To-Dos](https://gist.github.com/jgagne/5bbeeee70f707a0def34a9e8be26b27a) `#tasklist`
+ - Copy and paste tasklist (click the "Raw" button, then copy and paste) in your recipe repo as a new "To-Dos" issue and starting checking each to-do off
+
 - - -
 
 ### Week 14
