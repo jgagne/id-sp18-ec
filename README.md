@@ -372,7 +372,7 @@ Design a modern responsive single serving website — a single-page with a singl
 
 #### Recipe To-Dos
 
-- [HTML & CSS Recipe To-Dos](https://gist.github.com/jgagne/5bbeeee70f707a0def34a9e8be26b27a) `#tasklist`
+- [Recipe To-Dos](https://gist.github.com/jgagne/5bbeeee70f707a0def34a9e8be26b27a) `#tasklist`
  - Copy and paste tasklist (click the "Raw" button, then copy and paste) in your recipe repo as a new "To-Dos" issue and starting checking each to-do off
 
 - - -
@@ -380,6 +380,13 @@ Design a modern responsive single serving website — a single-page with a singl
 ### Week 14
 
 `April 18`
+
+#### To-Dos
+
+Copy and paste tasklist (click the "Raw" button, then copy and paste) in your recipe repo as a new "To-Dos" issue and starting checking each to-do off.
+
+- [Recipe To-Dos](https://gist.github.com/jgagne/5bbeeee70f707a0def34a9e8be26b27a) `#tasklist`
+ - *Updated* Code, Design, and Extra Extra to-dos
 
 - - -
 
