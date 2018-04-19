@@ -386,7 +386,7 @@ Design a modern responsive single serving website — a single-page with a singl
 Copy and paste each tasklist (click the "Raw" button, then copy and paste) in *your* repo as a new "To-Dos" issue and start checking each to-do off.
 
 - [Recipe To-Dos](https://gist.github.com/jgagne/5bbeeee70f707a0def34a9e8be26b27a) `#tasklist`
- - **Updated** Code, Design, and Extra Extra to-dos
+  - **Updated** Code, Design, and Extra Extra to-dos
 
 - [Redesign To-Dos](https://gist.github.com/jgagne/5268a361baabfd701f457e29c532a6af) `#tasklist`
 
