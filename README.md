@@ -398,6 +398,19 @@ Copy and paste each tasklist (click the "Raw" button, then copy and paste) in *y
 
 - *Last Day of Class*
 
+#### Break Bread
+
+Bake, cook, or prepare your recipe and bring to the last class to share for potlock lunch. `#optional`
+
+#### Critique
+
+- Recipe
+- Redesign
+- Single Serving
+
+#### Grading
+
+- Any updates to project repos must be done, and please notify me via Slack, by the end of day on Monday, May 7 for final grading. *(Final grades are due Wednesday, May 9.)*
 
 ## Tools
 
