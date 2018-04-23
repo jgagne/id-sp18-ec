@@ -412,6 +412,10 @@ Bake, cook, or prepare your recipe and bring to the last class to share for potl
 
 - Any updates to project repos must be done, and please notify me via Slack, by the end of day on Monday, May 7 for final grading. *(Final grades are due Wednesday, May 9.)*
 
+#### Course Eval
+
+[Interactive Design (01)-ART*3402*01](https://eclearn.emmanuel.edu/courses/2211299/files/116610574?module_item_id=33140663) `#comments`
+
 ## Tools
 
 ### Text Editors
